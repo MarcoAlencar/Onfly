@@ -18,7 +18,7 @@
 ## O que eu fiz
 
 - Forneci o pacote do desafio e pedi a resolução.
-- Rodei o projeto no GitHub Codespaces, executei pytest -q (34 passed) e o CLI no dataset completo, conferi o resultado com a amostra do README e publiquei o repositóri
+- Rodei o projeto no GitHub Codespaces, executei pytest -q (34 passed) e o CLI no dataset completo, conferi o resultado com a amostra do README e publiquei o repositório
 
 ## Observação
 
